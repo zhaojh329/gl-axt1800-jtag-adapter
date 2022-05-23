@@ -1,5 +1,5 @@
 # GL-AXT1800 Jtag Adapter
 
-![](/screen1.png)
+<img src="/screen1.jpg" width="200px" height="200px"/>
 
-![](/screen2.png)
+<img src="/screen2.jpg" width="200px" height="200px"/>
