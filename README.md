@@ -1,1 +1,1 @@
-# gl-axt1800-jtag-adapter
+# GL-AXT1800 Jtag Adapter
